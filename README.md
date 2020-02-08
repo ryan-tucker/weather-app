@@ -1,2 +1,0 @@
-# weather-app
-Node.js
